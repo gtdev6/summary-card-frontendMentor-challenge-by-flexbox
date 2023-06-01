@@ -26,7 +26,7 @@
   );
 }
 
-.circle-score span {
+.circle-score h2 {
   font-size: 56px;
   font-family: "Hanken Grotesk", sans-serif;
   font-weight: 800;
@@ -66,7 +66,7 @@
   color: rgba(255, 255, 255, 0.6);
 }
 
-.circle-score span {
+.circle-score h2 {
   color: white;
 }
 
